@@ -1,0 +1,604 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"border",
+				"border-width"
+			],
+			[
+				"background",
+				"background-color"
+			],
+			[
+				"margin",
+				"margin-bottom"
+			],
+			[
+				"border-",
+				"border-color"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"paddin",
+				"padding-bottom"
+			],
+			[
+				"mar",
+				"margin"
+			],
+			[
+				"pad",
+				"padding"
+			],
+			[
+				"trans",
+				"transparent"
+			],
+			[
+				"head",
+				"header	Tag"
+			],
+			[
+				"pa",
+				"padding-bottom"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"min",
+				"min-height"
+			],
+			[
+				"button",
+				"bs3-button:primary	bs3-button-primary"
+			],
+			[
+				"btn",
+				"btn-default"
+			],
+			[
+				"gray-lig",
+				"gray-lighter"
+			],
+			[
+				"padd",
+				"padding-bottom"
+			],
+			[
+				"marg",
+				"margin-bottom"
+			],
+			[
+				"thum",
+				"thumbnail"
+			],
+			[
+				"thumb",
+				"thumbnail-size"
+			],
+			[
+				"border-top",
+				"border-top-color"
+			],
+			[
+				"gray",
+				"gray-light"
+			],
+			[
+				"bacground-",
+				"background-color"
+			],
+			[
+				"gr",
+				"gray"
+			],
+			[
+				"gra",
+				"gray-lighter"
+			],
+			[
+				"fon",
+				"font-weight"
+			],
+			[
+				"border-col",
+				"border-color"
+			],
+			[
+				"font-famil",
+				"font-family-serif"
+			],
+			[
+				"font-s",
+				"font-size"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "wp-config.php",
+			"settings":
+			{
+				"buffer_size": 3704,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 327.0,
+		"last_filter": "sftp",
+		"selected_items":
+		[
+			[
+				"sftp",
+				"SFTP: Browse Server…"
+			],
+			[
+				"sft",
+				"SFTP: Browse Server…"
+			],
+			[
+				"insert",
+				"Insert Filepath"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"path",
+				"Insert Path Relative to Project"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"snippet image",
+				"Snippet: bs3-image"
+			],
+			[
+				"image",
+				"Snippet: image-caps"
+			],
+			[
+				"row",
+				"Snippet: bs3-row-col"
+			],
+			[
+				"snipp",
+				"Snippet: responsive"
+			],
+			[
+				"boot",
+				"Snippet: jumbotron"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"color",
+				"Colorsublime: Install Theme"
+			],
+			[
+				"sass",
+				"Snippet: +include - Sass syntax"
+			],
+			[
+				"package in",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"sass c",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"",
+				"Package Control: Install Package"
+			],
+			[
+				"pack",
+				"Package Control: List Packages"
+			],
+			[
+				"packa",
+				"Package Control: Install Package"
+			],
+			[
+				"pa",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 449.0
+	},
+	"console":
+	{
+		"height": 161.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = 'eb2297e1a458f27d836c04bb0cbaf282' + 'd0e7a3098092775ccb37ca9d6b2e4b7d'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+	],
+	"file_history":
+	[
+		"/Users/tyburrowbridge/GitHub/treatmintbox/wp-config.php",
+		"/Users/tyburrowbridge/GitHub/treatmintbox/wp-config-local.php",
+		"/Users/tyburrowbridge/GitHub/tmb/wp-content/themes/salient/style.css",
+		"/Users/tyburrowbridge/GitHub/tmb/wp-content/themes/salient/css/orbit.css",
+		"/var/folders/sp/ldpc17ws5nv19s61pyrk4vs80000gn/T/sublime-sftp-browse-1464180455/cratejoyFTP/joybox_digital_230138282/html/subscribe.html",
+		"/var/folders/sp/ldpc17ws5nv19s61pyrk4vs80000gn/T/sublime-sftp-browse-1464180336/cratejoyFTP/joybox_digi-with-surveys-copy-0_293108238/html/subscribe.html",
+		"/var/folders/sp/ldpc17ws5nv19s61pyrk4vs80000gn/T/sublime-sftp-browse-1463575993/cratejoyFTP/joybox_digital_230138282/html/checkout.html",
+		"/var/folders/sp/ldpc17ws5nv19s61pyrk4vs80000gn/T/sublime-sftp-browse-1464180260/cratejoyFTP/cargo_286425568/html/subscribe.html",
+		"/var/folders/sp/ldpc17ws5nv19s61pyrk4vs80000gn/T/sublime-sftp-browse-1464180234/cratejoyFTP/cargo_286425568/html/base.html",
+		"/var/folders/sp/ldpc17ws5nv19s61pyrk4vs80000gn/T/sublime-sftp-browse-1463576602/cratejoyFTP/joybox_digital_230138282/html/customer/thank_you.html",
+		"/var/folders/sp/ldpc17ws5nv19s61pyrk4vs80000gn/T/sublime-sftp-browse-1463576016/cratejoyFTP/joybox_digital_230138282/html/subscribe.html",
+		"/var/folders/sp/ldpc17ws5nv19s61pyrk4vs80000gn/T/sublime-sftp-browse-1463602193/cratejoyFTP/joybox_digital_230138282/html/subscribe_flow/term_grid_item.html",
+		"/var/folders/sp/ldpc17ws5nv19s61pyrk4vs80000gn/T/sublime-sftp-browse-1463575954/cratejoyFTP/joybox_digital_230138282/html/base.html",
+		"/var/folders/sp/ldpc17ws5nv19s61pyrk4vs80000gn/T/sublime-sftp-browse-1463576046/cratejoyFTP/joybox_digital_230138282/html/subscribe_flow/product_grid_item.html",
+		"/var/folders/sp/ldpc17ws5nv19s61pyrk4vs80000gn/T/sublime-sftp-browse-1463602109/cratejoyFTP/joybox_digital_230138282/html/subscribe_flow/variant_grid_item.html",
+		"/var/folders/sp/ldpc17ws5nv19s61pyrk4vs80000gn/T/sublime-sftp-browse-1463576059/cratejoyFTP/joybox_digital_230138282/html/subscribe_flow/variant_grid_item.html",
+		"/var/folders/sp/ldpc17ws5nv19s61pyrk4vs80000gn/T/sublime-sftp-browse-1463576075/cratejoyFTP/joybox_digital_230138282/html/index.html",
+		"/var/folders/sp/ldpc17ws5nv19s61pyrk4vs80000gn/T/sublime-sftp-browse-1463575839/cratejoyFTP/cargo_286425568/html/subscribe_flow/variant_step.html",
+		"/var/folders/sp/ldpc17ws5nv19s61pyrk4vs80000gn/T/sublime-sftp-browse-1463575822/cratejoyFTP/cargo_286425568/html/checkout.html",
+		"/var/folders/sp/ldpc17ws5nv19s61pyrk4vs80000gn/T/sublime-sftp-browse-1463575787/cratejoyFTP/cargo_286425568/html/base.html",
+		"/var/folders/sp/ldpc17ws5nv19s61pyrk4vs80000gn/T/sublime-sftp-browse-1463575884/cratejoyFTP/cargo_286425568/html/base.html",
+		"/var/folders/sp/ldpc17ws5nv19s61pyrk4vs80000gn/T/sublime-sftp-browse-1462566130/cratejoyFTP/cargo_286425568/html/base.html",
+		"/var/folders/sp/ldpc17ws5nv19s61pyrk4vs80000gn/T/sublime-sftp-browse-1462564279/cratejoyFTP/cargo_286425568/html/subscribe_flow/products.html",
+		"/var/folders/sp/ldpc17ws5nv19s61pyrk4vs80000gn/T/sublime-sftp-browse-1462564405/cratejoyFTP/cargo_286425568/html/subscribe_flow/variant_step.html",
+		"/var/folders/sp/ldpc17ws5nv19s61pyrk4vs80000gn/T/sublime-sftp-browse-1462564370/cratejoyFTP/cargo_286425568/html/subscribe_flow/variants.html",
+		"/var/folders/sp/ldpc17ws5nv19s61pyrk4vs80000gn/T/sublime-sftp-browse-1462564262/cratejoyFTP/cargo_286425568/html/subscribe.html",
+		"/var/folders/sp/ldpc17ws5nv19s61pyrk4vs80000gn/T/sublime-sftp-browse-1462565552/cratejoyFTP/cargo_286425568/css/ecom.css",
+		"/var/folders/sp/ldpc17ws5nv19s61pyrk4vs80000gn/T/sublime-sftp-browse-1462565733/cratejoyFTP/cargo_286425568/css/style.css",
+		"/var/folders/sp/ldpc17ws5nv19s61pyrk4vs80000gn/T/sublime-sftp-browse-1462565515/cratejoyFTP/cargo_286425568/css/bootstrap.css",
+		"/var/folders/sp/ldpc17ws5nv19s61pyrk4vs80000gn/T/sublime-sftp-browse-1462564293/cratejoyFTP/cargo_286425568/html/subscribe_flow/terms.html",
+		"/var/folders/sp/ldpc17ws5nv19s61pyrk4vs80000gn/T/sublime-sftp-browse-1462566086/cratejoyFTP/cargo_286425568/config/config.json",
+		"/var/folders/sp/ldpc17ws5nv19s61pyrk4vs80000gn/T/sublime-sftp-browse-1462564219/cratejoyFTP/cargo_286425568/css/style.css",
+		"/Users/tyburrowbridge/Library/Application Support/Sublime Text 3/Packages/User/SFTP.errors.log",
+		"/var/folders/sp/ldpc17ws5nv19s61pyrk4vs80000gn/T/sublime-sftp-browse-1462561012/mapped/cargo_286425568/css/style.css",
+		"/Users/tyburrowbridge/Library/Application Support/Sublime Text 3/Packages/User/sftp_servers/cratejoyFTP",
+		"/var/folders/sp/ldpc17ws5nv19s61pyrk4vs80000gn/T/sublime-sftp-browse-1462560141/mapped/cargo_286425568/html/base.html",
+		"/var/folders/sp/ldpc17ws5nv19s61pyrk4vs80000gn/T/sublime-sftp-browse-1462560641/mapped/cargo_286425568/html/subscribe_flow/progress_bar.html",
+		"/var/folders/sp/ldpc17ws5nv19s61pyrk4vs80000gn/T/sublime-sftp-browse-1462560753/mapped/cargo_286425568/html/subscribe_flow/terms.html",
+		"/var/folders/sp/ldpc17ws5nv19s61pyrk4vs80000gn/T/sublime-sftp-browse-1462561870/mapped/cargo_286425568/css/bootstrap.css",
+		"/var/folders/sp/ldpc17ws5nv19s61pyrk4vs80000gn/T/sublime-sftp-browse-1462561834/mapped/cargo_286425568/css/reset.css",
+		"/var/folders/sp/ldpc17ws5nv19s61pyrk4vs80000gn/T/sublime-sftp-browse-1462561770/mapped/cargo_286425568/config/config.json",
+		"/var/folders/sp/ldpc17ws5nv19s61pyrk4vs80000gn/T/sublime-sftp-browse-1462560792/mapped/cargo_286425568/html/subscribe_flow/terms_step.html",
+		"/var/folders/sp/ldpc17ws5nv19s61pyrk4vs80000gn/T/sublime-sftp-browse-1462559899/mapped/cargo_286425568/html/subscribe.html",
+		"/var/folders/sp/ldpc17ws5nv19s61pyrk4vs80000gn/T/sublime-sftp-browse-1462560722/mapped/cargo_286425568/html/subscribe_flow/products.html",
+		"/var/folders/sp/ldpc17ws5nv19s61pyrk4vs80000gn/T/sublime-sftp-browse-1462561476/mapped/cargo_286425568/css/style.css",
+		"/var/folders/sp/ldpc17ws5nv19s61pyrk4vs80000gn/T/sublime-sftp-browse-1462560957/mapped/joybox_digital_230138282/css/style.css",
+		"/var/folders/sp/ldpc17ws5nv19s61pyrk4vs80000gn/T/sublime-sftp-browse-1462451339/mapped/joybox_digital_230138282/css/main.css",
+		"/var/folders/sp/ldpc17ws5nv19s61pyrk4vs80000gn/T/sublime-sftp-browse-1462451326/mapped/joybox_digital_230138282/css/style.css",
+		"/var/folders/sp/ldpc17ws5nv19s61pyrk4vs80000gn/T/sublime-sftp-browse-1462556371/mapped/joybox_digital_230138282/css/plugins/pikachoose/base.css",
+		"/var/folders/sp/ldpc17ws5nv19s61pyrk4vs80000gn/T/sublime-sftp-browse-1462558013/mapped/joybox_digital_230138282/html/shop/listing.html",
+		"/var/folders/sp/ldpc17ws5nv19s61pyrk4vs80000gn/T/sublime-sftp-browse-1462557261/mapped/joybox_digital_230138282/html/shop/product.html",
+		"/var/folders/sp/ldpc17ws5nv19s61pyrk4vs80000gn/T/sublime-sftp-browse-1462556663/mapped/joybox_digital_230138282/html/components/shopping-cart.html",
+		"/var/folders/sp/ldpc17ws5nv19s61pyrk4vs80000gn/T/sublime-sftp-browse-1462475221/mapped/joybox_digital_230138282/html/base.html",
+		"/var/folders/sp/ldpc17ws5nv19s61pyrk4vs80000gn/T/sublime-sftp-browse-1462557253/mapped/joybox_digital_230138282/html/shop/listings.html",
+		"/var/folders/sp/ldpc17ws5nv19s61pyrk4vs80000gn/T/sublime-sftp-browse-1462459012/mapped/joybox_digital_230138282/html/customer/thank_you.html",
+		"/var/folders/sp/ldpc17ws5nv19s61pyrk4vs80000gn/T/sublime-sftp-browse-1462451288/mapped/joybox_digital_230138282/html/subscribe.html",
+		"/var/folders/sp/ldpc17ws5nv19s61pyrk4vs80000gn/T/sublime-sftp-browse-1462454194/mapped/joybox_digital_230138282/html/subscribe_flow/term_grid_item.html",
+		"/var/folders/sp/ldpc17ws5nv19s61pyrk4vs80000gn/T/sublime-sftp-browse-1462460364/mapped/joybox_digital_230138282/html/checkout.html",
+		"/var/folders/sp/ldpc17ws5nv19s61pyrk4vs80000gn/T/sublime-sftp-browse-1462556225/mapped/joybox_digital_230138282/css/base.css",
+		"/var/folders/sp/ldpc17ws5nv19s61pyrk4vs80000gn/T/sublime-sftp-browse-1462458762/mapped/joybox_digital_230138282/html/base.html",
+		"/Users/tyburrowbridge/GitHub/bravebox-cratejoy/sftp-config.json",
+		"/var/folders/sp/ldpc17ws5nv19s61pyrk4vs80000gn/T/sublime-sftp-browse-1462452337/mapped/joybox_digital_230138282/html/subscribe_flow/product_grid_item.html",
+		"/var/folders/sp/ldpc17ws5nv19s61pyrk4vs80000gn/T/sublime-sftp-browse-1462452366/mapped/joybox_digital_230138282/html/subscribe_flow/variant_grid_item.html",
+		"/var/folders/sp/ldpc17ws5nv19s61pyrk4vs80000gn/T/sublime-sftp-browse-1462454313/mapped/joybox_digital_230138282/html/checkout.html",
+		"/Users/tyburrowbridge/GitHub/bravebox-cratejoy/html/subscribe.html",
+		"/Users/tyburrowbridge/GitHub/bravebox/wp-content/themes/sage/front-page.php",
+		"/Users/tyburrowbridge/GitHub/bravebox/wp-content/themes/sage/assets/styles/common/_variables.scss",
+		"/Users/tyburrowbridge/GitHub/bravebox/wp-content/themes/sage/assets/styles/custom/_front-page.scss",
+		"/Users/tyburrowbridge/GitHub/bravebox-cratejoy/css/style.css",
+		"/Users/tyburrowbridge/GitHub/bravebox-cratejoy/css/main.css",
+		"/Users/tyburrowbridge/GitHub/bravebox/wp-content/themes/sage/assets/styles/main.scss",
+		"/Users/tyburrowbridge/GitHub/bravebox/wp-content/themes/sage/assets/styles/components/_navbar.css",
+		"/Users/tyburrowbridge/GitHub/bravebox/wp-content/themes/sage/assets/styles/components/_buttons.scss",
+		"/Users/tyburrowbridge/GitHub/bravebox/wp-content/themes/sage/bower_components/bootstrap-sass/assets/stylesheets/bootstrap/_buttons.scss",
+		"/Users/tyburrowbridge/GitHub/bravebox/wp-content/themes/sage/assets/styles/custom/_font-page.scss",
+		"/Users/tyburrowbridge/GitHub/bravebox/wp-content/themes/sage/bower_components/bootstrap-sass/assets/stylesheets/_bootstrap.scss",
+		"/Users/tyburrowbridge/GitHub/bravebox/wp-content/themes/sage/bower_components/bootstrap-sass/assets/stylesheets/bootstrap/mixins/_buttons.scss",
+		"/Users/tyburrowbridge/GitHub/bravebox/wp-includes/css/buttons.css",
+		"/Users/tyburrowbridge/GitHub/bravebox/wp-settings.php",
+		"/Users/tyburrowbridge/GitHub/bravebox/wp-config.php",
+		"/Users/tyburrowbridge/GitHub/bravebox/wp-content/index.php",
+		"/Users/tyburrowbridge/GitHub/tmb/wp-content/themes/salient/tmb-styles.css",
+		"/Users/tyburrowbridge/GitHub/tmb/wp-content/themes/salient/tmb-colors.less",
+		"/Users/tyburrowbridge/GitHub/tmb/.gitignore",
+		"/Users/tyburrowbridge/GitHub/tmb/wp-content/themes/salient/tmb-less.less"
+	],
+	"find":
+	{
+		"height": 26.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"mix",
+			"mixpanel",
+			"#71c6a1",
+			"chose",
+			"button",
+			"primary",
+			".btn",
+			"choose",
+			".btn-primary",
+			"large",
+			".btn.btn-primary",
+			"chose",
+			"!important",
+			".btn",
+			"price",
+			"terms",
+			"!important",
+			".btn.btn-primary",
+			"btn",
+			".btn {",
+			".btn",
+			".btn ",
+			"#fff",
+			"choose a term",
+			"choose",
+			"term",
+			"choose",
+			"choose a term",
+			"block",
+			"blcok",
+			"title",
+			"{% if cart_gift.subscription_type_term %}",
+			"<p class=\"meta\">{{ cart_gift.subscription_type_term.name | title }}</p>",
+			"<p class=\"meta\">{{ cart_gift.subscription_type_term.name | title }}</p>\n",
+			"{% if cart_prod.subscription_type_term %}",
+			"{{ cart_gift",
+			"[[ cart_gift",
+			"product-name",
+			"border-color",
+			"btn",
+			"submit",
+			"outer",
+			"i {",
+			".i",
+			".last",
+			"divider",
+			"ary",
+			"shadow",
+			"active",
+			"18",
+			"btn",
+			"\n",
+			"            \n",
+			"<hr>",
+			"hr",
+			"account",
+			"well",
+			"br",
+			"view",
+			"no game",
+			"img",
+			"weight",
+			"hr",
+			"item",
+			"add item",
+			"choose",
+			"media",
+			"navbar",
+			"media",
+			"\">\n",
+			"navbar",
+			"alert",
+			"small",
+			"<hr>",
+			"h2",
+			";\n",
+			"promotion",
+			"header",
+			"img",
+			"edit",
+			"control",
+			"navbar",
+			"box-shadow",
+			"dropdown-menu",
+			"navbar",
+			"container",
+			"tabchanger",
+			"radio",
+			"well",
+			"control-lab",
+			"label",
+			"button",
+			"btn",
+			"navbar"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "wp-config.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3704,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/PHP/PHP.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 26.0
+	},
+	"input":
+	{
+		"height": 35.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.sftp":
+	{
+		"height": 124.0
+	},
+	"pinned_build_system": "",
+	"project": "treatmintbox website.sublime-project",
+	"replace":
+	{
+		"height": 48.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"/var/folders/sp/ldpc17ws5nv19s61pyrk4vs80000gn/T/sublime-sftp-browse-1462451326/mapped/joybox_digital_230138282/css/style.css"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 298.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

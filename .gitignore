@@ -26,6 +26,10 @@ wp-admin/
 # wordpress includes
 wp-includes/
 
+# local dev database configuration
+wp-config-local.php
+/database/
+
 # wpengine specific
 .smushit-status
 .gitattributes
