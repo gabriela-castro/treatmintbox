@@ -1,0 +1,58 @@
+Index: inc/classes/generate.class.php
+===================================================================
+--- inc/classes/generate.class.php	(revision 1340404)
++++ inc/classes/generate.class.php	(working copy)
+@@ -435,7 +435,7 @@
+ 				 */
+ 				$excerpt_exists = ! empty( $excerpt['social'] ) ? true : false;
+
+-				if ( $excerpt_exists && $description_additions ) {
++				if ( $excerpt_exists ) {
+ 					$description = $excerpt['social'];
+ 				} else {
+ 					$description = (string) sprintf( '%s %s %s', $title, $on, $blogname );
+@@ -443,15 +443,18 @@
+ 			} else {
+ 				$excerpt_exists = ! empty( $excerpt['normal'] ) ? true : false;
+
+-				if ( $excerpt_exists && $description_additions ) {
+-					$description = (string) sprintf( '%s %s %s %s %s', $title, $on, $blogname, $sep, $excerpt['normal'] );
+-				} else if ( $excerpt_exists ) {
+-					$description = (string) sprintf( '%s %s %s', $title, $sep, $excerpt['normal'] );
++				if ( true === $excerpt_exists ) {
++					if ( $description_additions ) {
++						$description = (string) sprintf( '%s %s %s %s %s', $title, $on, $blogname, $sep, $excerpt['normal'] );
++					} else {
++						$description = (string) sprintf( '%s %s %s', $title, $sep, $excerpt['normal'] );
++					}
+ 				} else {
+ 					//* We still add the additions when no excerpt has been found.
+ 					// i.e. home page or empty/shortcode filled page.
+ 					$description = (string) sprintf( '%s %s %s', $title, $on, $blogname );
+ 				}
++
+ 			}
+ 		} else {
+ 			//* Home page Description.
+Index: autodescription.php
+===================================================================
+--- autodescription.php	(revision 1340404)
++++ autodescription.php	(working copy)
+@@ -3,7 +3,7 @@
+  * Plugin Name: The SEO Framework
+  * Plugin URI: https://wordpress.org/plugins/autodescription/
+  * Description: The SEO Framework makes sure your SEO is always up-to-date without any configuration needed. It's based upon the Genesis SEO.
+- * Version: 2.5.2.1
++ * Version: 2.5.2.2
+  * Author: Sybre Waaijer
+  * Author URI: https://cyberwire.nl/
+  * License: GPLv3
+@@ -49,7 +49,7 @@
+  * Removed previous constant.
+  * @since 2.3.5
+  */
+-define( 'THE_SEO_FRAMEWORK_VERSION', '2.5.2.1' );
++define( 'THE_SEO_FRAMEWORK_VERSION', '2.5.2.2' );
+
+ /**
+  * Plugin options filter
