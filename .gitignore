@@ -20,6 +20,12 @@ wp-content/wp-cache-config.php
 wp-content/cache/*
 wp-content/cache/supercache/*
 
+# wordpress admin
+wp-admin/
+
+# wordpress includes
+wp-includes/
+
 # wpengine specific
 .smushit-status
 .gitattributes
