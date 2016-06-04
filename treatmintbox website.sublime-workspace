@@ -127,14 +127,6 @@
 	},
 	"buffers":
 	[
-		{
-			"file": "wp-config.php",
-			"settings":
-			{
-				"buffer_size": 3704,
-				"line_ending": "Unix"
-			}
-		}
 	],
 	"build_system": "",
 	"build_system_choices":
@@ -260,6 +252,12 @@
 	],
 	"file_history":
 	[
+		"/Users/tyburrowbridge/GitHub/treatmintbox/gulpfile.js",
+		"/Users/tyburrowbridge/GitHub/treatmintbox/wp-content/themes/atelier/css/main.css",
+		"/Users/tyburrowbridge/GitHub/treatmintbox/wp-content/themes/atelier/header.php",
+		"/Users/tyburrowbridge/GitHub/treatmintbox/wp-content/themes/atelier/style.css",
+		"/Users/tyburrowbridge/GitHub/treatmintbox/wp-content/themes/atelier/css/editor-style.css",
+		"/Users/tyburrowbridge/GitHub/treatmintbox/wp-content/themes/atelier/css/base.scss",
 		"/Users/tyburrowbridge/GitHub/treatmintbox/wp-config.php",
 		"/Users/tyburrowbridge/GitHub/treatmintbox/wp-config-local.php",
 		"/Users/tyburrowbridge/GitHub/tmb/wp-content/themes/salient/style.css",
@@ -474,40 +472,8 @@
 	"groups":
 	[
 		{
-			"selected": 0,
 			"sheets":
 			[
-				{
-					"buffer": 0,
-					"file": "wp-config.php",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 3704,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								0,
-								0
-							]
-						],
-						"settings":
-						{
-							"incomplete_sync": null,
-							"remote_loading": false,
-							"synced": false,
-							"syntax": "Packages/PHP/PHP.sublime-syntax"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 0,
-					"type": "text"
-				}
 			]
 		}
 	],
